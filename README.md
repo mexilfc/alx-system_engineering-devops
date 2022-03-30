@@ -1,1 +1,1 @@
-cat
+for shell 0x00
